@@ -37,7 +37,7 @@ public class AddActivity extends Activity {
     private EditText nameText;
     private EditText counterText;
     private EditText commentText;
-
+    private Countbook countbook;
     private ArrayList<Countbook> countbookList;
 
     /**
