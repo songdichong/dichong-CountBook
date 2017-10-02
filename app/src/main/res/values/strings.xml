@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CountBook</string>
+    <string name="name">Please input your name: </string>
+    <string name="counter">Please input initial counter: </string>
+    <string name="comment">Comment: </string>
+    <string name="button_add">Add</string>
+    <string name="button_detail">Detail</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_save">Save</string>
+    <string name="button_edit">edit</string>
+    <string name="button_increase">increase</string>
+    <string name="button_decrease">decrease</string>
+    <string name="button_reset">reset</string>
+    <string name="counter_negative">negative counter</string>
+    <string name="cancel">cancel</string>
+</resources>
