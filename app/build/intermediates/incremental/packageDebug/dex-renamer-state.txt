@@ -1,4 +1,7 @@
-#Mon Oct 02 01:07:04 MDT 2017
-base.0=C\:\\cmput301\\dichong-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Mon Oct 02 11:27:12 MDT 2017
+base.0=C\:\\cmput301\\dichong-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_763ebff1a71ff181ca105ed5a2ef320ffa8562cd
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\cmput301\\dichong-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\cmput301\\dichong-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dc3f67739ec40d2d397d239f0e02d6c34f574753\\classes.dex
+base.1=C\:\\cmput301\\dichong-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dc3f67739ec40d2d397d239f0e02d6c34f574753
+file.0=C\:\\cmput301\\dichong-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_763ebff1a71ff181ca105ed5a2ef320ffa8562cd\\classes.dex
